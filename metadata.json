@@ -1,0 +1,6 @@
+{
+  "name": "FreshSabzi",
+  "description": "A modern vegetable delivery app for local cities in India with a real-time weight-based delivery charge calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
